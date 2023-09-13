@@ -38,3 +38,4 @@ registerRoute(({ request }) =>
     ],
   })
 );
+// header won't load
