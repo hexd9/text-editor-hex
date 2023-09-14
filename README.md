@@ -21,6 +21,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
+Heroku: https://guarded-shelf-77129-58de61c329a5.herokuapp.com/
+
+Repo: https://github.com/hexd9?tab=repositories
+
 1. Navigate to http://localhost:3000
 2. Text Editor will open
 3. Use via web browser
